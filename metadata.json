@@ -1,0 +1,6 @@
+{
+  "name": "Balasore Live",
+  "description": "Real-time updates for Balasore, Odisha with local news, weather alerts, tourism hotspots, and offline caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
